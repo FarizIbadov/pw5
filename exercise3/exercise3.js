@@ -29,4 +29,4 @@ function valid(cardNum){
   return console.log(sum%10 === 0)
 }
 
-valid(ibi)
+valid(cardNum)
